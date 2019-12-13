@@ -36,7 +36,7 @@
     "typescript": "^2.6.2",
     "webpack": "3.8.1",
     "webpack-concat-plugin": "1.4.0",
-    "webpack-dev-server": "2.9.3",
+    "webpack-dev-server": "3.1.11",
     "zone.js": "^0.8.17"
   },
   "scripts": {
